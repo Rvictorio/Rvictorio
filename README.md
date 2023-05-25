@@ -20,15 +20,15 @@ Olá meu nome é Rafael, sou um nerd com TDAH que está com a cabeça em todos o
 
 </details>
 <details>
-  <summary><b>Hard Skills</b></summary>
+  <summary><b>Tecnologias que eu utilizo</b></summary>
 
 | Linguagens | Nível | Comentarios |
 |:----------|------| ------------------|
-|JAVA|:star: :star: | Possuo conhecimento básico avançando para o intermadiario
-|Python| :star: | Já utilizei a linguagem em meus estudos
-|C++| :star: | Já tive experiências em projetos com esta tecnologia
-|HTML/CSS/JS| :star: | Iniciei meus estudos recentemente nessas ferramentas
-|SQL| :star: | Uma adição recente aos meus estudos
+|JAVA|:star: :star: :star: | Conhecimento intermediario (POO, SOLID, TDD, MAVEN, Etc...)
+|Python| :star: :star: | Conhecimento básico (Dominio de algumas bibliotecas e noções básicas da tecnologia)
+|C++| :star: | Conhecimento iniciante (Utilizei em alguns projetos no ensino médio)
+|HTML/CSS/JS| :star: | Conhecimento iniciante (Iniciei meus estudos recentemente nessas ferramentas)
+|SQL| :star: | Conhecimento inicante (Uma adição recente aos meus estudos)
 
 
   
@@ -39,11 +39,11 @@ Olá meu nome é Rafael, sou um nerd com TDAH que está com a cabeça em todos o
 
 | Ferramentas | Nível | Comentarios |
 |:----------|------| ------------------|
-|GIT/GITHUB|:star: :star: | Acredito que possuo um bom conhecimento nessas ferramentas
-|Intellij IDEA| :star: :star: | Minha IDE favorita para codar em JAVA
-|VS Code | :star: | Ferramenta que comecei a utilizar recentemente 
-|Spring Boot| :star: | Iniciei meus estudos recentemente nessas ferramentas
-|PostgrSQL| :star: | Estou adquirindo familiaridade com a ferramenta
+|GIT/GITHUB|:star: :star: | Conhecimento básico (Entendo as ferramentas e suas aplicações)
+|Intellij IDEA| :star: :star: | Conhecinento básico (Minha IDE favorita para codar em JAVA)
+|VS Code | :star: | Conhecimento iniciante (Ferramenta que comecei a utilizar recentemente)
+|Spring Boot| :star: | Conhecimento iniciante (Iniciei meu aprofundamento recentemente nessa ferramenta)
+|PostgrSQL| :star: |Conhecimento inicante (Estou adquirindo familiaridade com a ferramenta)
 
 
   
