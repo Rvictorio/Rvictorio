@@ -2,10 +2,11 @@
 
 ## Info
 
-Olá meu nome é Rafael, sou um nerd com TDAH que está com a cabeça em todos os lugares possíveis. Atualmente estou focado na área BACK-END, tendo grande foco em JAVA (apenas um JavaBoy). Sou fascinado por tecnologia e ciências (aqui entra muita coisa mais principalmente as áreas ligadas as astrofísica e ciências da computação), e isso é o que me motiva dia após dia para conseguir me estabelecer nestes campos.
+Olá, meu nome é Rafael, sou uma pessoa muito comunicativa que se adapta bem as inovações do mundo da tecnologia. Atualmente estou com meus estudos focados na área da Ciência da Computação (dando um foco grande em programação), se tornando aquilo que eu mais observo no meu cotidiano. Estou estagiando na área de suporte técnico de Ti, mas estou tentando me alocar na área de desenvolvimento, especialmente na área de Back-End. Acredito que estou trilhando um excelente caminho no âmbito profissional, estou tentando me aperfeiçoar para lidar muito bem com a próxima oportunidade que for me dada.
 
-- :computer: Atualmente meu foco de estudo é Java, entretanto, já tive algumas experiências com outras linguagens
-- :school: Sou um graduando em Ciências e Tecnologia pela UFABC (estou preste a completar meu segundo ano de estudo)
+
+- :computer: Atualmente meu foco de estudo é Java, entretanto, já tive algumas experiências com outras linguagens e estou aberto a aprender outras.
+- :school: Sou um graduando em Ciências e Tecnologia pela UFABC (Com previsão de término em dezembro de 2025).
 - :dart: Meu objetivo principal é conseguir uma vaga de estágio ou de júnior para que eu possa evoluir e me aperfeiçoar como dev.
 
 </details>
