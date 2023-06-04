@@ -5,7 +5,7 @@
 Olá, meu nome é Rafael, sou uma pessoa muito comunicativa que se adapta bem as inovações do mundo da tecnologia. Atualmente estou com meus estudos focados na área da Ciência da Computação (dando um foco grande em programação), se tornando aquilo que eu mais observo no meu cotidiano. Estou estagiando na área de suporte técnico de Ti, mas estou tentando me alocar na área de desenvolvimento, especialmente na área de Back-End. Acredito que estou trilhando um excelente caminho no âmbito profissional, estou tentando me aperfeiçoar para lidar muito bem com a próxima oportunidade que for me dada.
 
 
-- :computer: Atualmente meu foco de estudo é Java, entretanto, já tive algumas experiências com outras linguagens e estou aberto a aprender outras.
+- :computer: Atualmente meu foco de estudo é Java, entretanto, já tive algumas experiências com outras linguagens e estou aberto a aprender com outras ferramentas.
 - :school: Sou um graduando em Ciências e Tecnologia pela UFABC (Com previsão de término em dezembro de 2025).
 - :dart: Meu objetivo principal é conseguir uma vaga de estágio ou de júnior para que eu possa evoluir e me aperfeiçoar como dev.
 
