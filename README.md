@@ -23,6 +23,7 @@ Hello There!! Aqui quem fala é o Rafael, um desenvolvedor Back End muito comuni
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Rvictorio)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rvictorio)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Rvictori0)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rvictorio8@gmail.com)
 
 </details>
 <details>
@@ -62,7 +63,10 @@ Hello There!! Aqui quem fala é o Rafael, um desenvolvedor Back End muito comuni
 
 <details>
   <summary><b>Mais sobre mim: </b></summary>
+  🎵 O que eu ando ouvindo:
   
    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12176639966)
+
+   
    
 </details>
