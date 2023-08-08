@@ -5,7 +5,7 @@
 Esse perfil está em constate mudança, espero que você goste do conteúdo que irei deixar a seguir. Faço um convite para que veja todas as informações sobre mim que estou deixando disponível aqui, caso você queria saber mais, irei deixar fontes de contato para que possamos nos comunicar e debater ideias assim que possível. Desde já agradeço sua atenção, ela é muito valiosa para meu aprendizado (e talvez do seu também !!!)
 
 
-## Info
+## Informações básicas
 
 Hello There!! Aqui quem fala é o Rafael, um desenvolvedor Back End muito comunicativo e carismatico. Após um período de quase dois anos atuando como um estágiario na área de suporte técnico, estou me realocando na área de desenvolvimento. Tenho meus estudos voltados ao Back End, tendo como principal stack Java (mas não me limitando apenas nela), acredito que meu aprofudamento em Ciência da Computação vem me dando um "know how" muito interessante para a área de desenvolvimento, onde estudo diversas ferramentas, teorias, tecnologias, etc, que me auxiliam a ser um profissional muito qualificado e com um olhar cientifico muito apurado para as adversidades do cotidiano. 
 
@@ -63,10 +63,16 @@ Hello There!! Aqui quem fala é o Rafael, um desenvolvedor Back End muito comuni
 
 <details>
   <summary><b>Mais sobre mim: </b></summary>
-  🎵 O que eu ando ouvindo:
   
+ ## O que eu ando ouvindo 🎵:
    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12176639966)
-
    
+## Canais do Youtube que eu vejo 📺:
+  - [Ciência todo dia](https://www.youtube.com/@CienciaTodoDia)
+  - [Fiasco](https://www.youtube.com/@GrandeFiasco)
+  - [Felipe Deschamps](https://www.youtube.com/@FilipeDeschamps)
+  - [Nerdologia](https://www.youtube.com/@nerdologia)
+  - [Bandeja](https://www.youtube.com/@BANDEJA)
+  
    
 </details>
