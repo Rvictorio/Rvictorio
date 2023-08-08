@@ -1,6 +1,3 @@
-![SLEEPING DOGS BITS](https://github.com/Rvictorio/Rvictorio/blob/main/gif_perfil.gif)
-
-
 ## ALERT!!!
 Esse perfil está em constate mudança, espero que você goste do conteúdo que irei deixar a seguir. Faço um convite para que veja todas as informações sobre mim que estou deixando disponível aqui, caso você queria saber mais, irei deixar fontes de contato para que possamos nos comunicar e debater ideias assim que possível. Desde já agradeço sua atenção, ela é muito valiosa para meu aprendizado (e talvez do seu também !!!)
 
@@ -76,3 +73,6 @@ Hello There!! Aqui quem fala é o Rafael, um desenvolvedor Back End muito comuni
   
    
 </details>
+
+![SLEEPING DOGS BITS](https://github.com/Rvictorio/Rvictorio/blob/main/gif_perfil.gif)
+
