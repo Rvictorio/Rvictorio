@@ -48,14 +48,21 @@ Hello There!! Aqui quem fala é o Rafael, um desenvolvedor Back End muito comuni
   
 </details>
 
+
+
 <details>
   <summary><b>Stats: </b></summary>
   
   
   ![stats](https://github-readme-stats.vercel.app/api?username=rvictorio&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
-  
+  ![](https://komarev.com/ghpvc/?username=rvictorio&style=flat-square&label=Views)
+![]( https://badges.pufler.dev/visits/char-al/rvictorio?color=black&logo=github&style=flat-square )
   
 </details>
 
-![](https://komarev.com/ghpvc/?username=rvictorio&style=flat-square&label=Views)
-![]( https://badges.pufler.dev/visits/char-al/rvictorio?color=black&logo=github&style=flat-square )
+<details>
+  <summary><b>Mais sobre mim: </b></summary>
+  
+   ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12176639966)
+   
+</details>
