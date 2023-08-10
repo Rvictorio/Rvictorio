@@ -67,9 +67,10 @@ Hello There!! Aqui quem fala é o Rafael, um desenvolvedor Back End muito comuni
 ## Canais do Youtube que eu vejo 📺:
   - [Ciência todo dia](https://www.youtube.com/@CienciaTodoDia)
   - [Fiasco](https://www.youtube.com/@GrandeFiasco)
-  - [Felipe Deschamps](https://www.youtube.com/@FilipeDeschamps)
+  - [Filipe Deschamps](https://www.youtube.com/@FilipeDeschamps)
   - [Nerdologia](https://www.youtube.com/@nerdologia)
   - [Bandeja](https://www.youtube.com/@BANDEJA)
+  - [Attekita Dev](https://www.youtube.com/@attekitadev)
   
    
 </details>
