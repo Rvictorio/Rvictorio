@@ -40,6 +40,7 @@ Hello There!! Aqui quem fala é o Rafael, um desenvolvedor Back End muito comuni
 |Intellij IDEA| :star: :star: | Conhecinento básico (Minha IDE favorita para codar em JAVA)
 |VS Code | :star: | Conhecimento iniciante (Ferramenta que comecei a utilizar recentemente)
 |Spring Boot| :star: | Conhecimento iniciante (Iniciei meu aprofundamento recentemente nessa ferramenta)
+|Angular| :star: | Conhecimento iniciante (Iniciei meu aprofundamento recentemente nessa ferramente)
 |PostgrSQL| :star: |Conhecimento inicante (Estou adquirindo familiaridade com a ferramenta)
 
 
