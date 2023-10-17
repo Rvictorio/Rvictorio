@@ -33,8 +33,8 @@ public class Rafael {
 | Linguagens | Nível | Comentarios |
 |:----------|------| ------------------|
 |JAVA|:star: :star: :star: | Tenho como stack principal o Java, realizando diversos projetos pessoais. Minhas principais fontes de estudos são cursos, livros e artigos que me auxiliam no crescimento dentro desta linguagem, tenho solidos conhecimentos em POO, Spring, JDBC, Design patterns, SOLID, etc.
-|Python| :star: :star: | Possuo uma noção básica do que esta liguagem pode oferecer. Tive muito contato com ela nos primeiros quadrimestres da faculdade, onde desenvolvi lógica de programação, POO e uso de diversas bibliotecas (como por exemplo Pandas, onde usei para interpretação de dados)
-|HTML/CSS/JS| :star: | Consigo criar aplicações web simples com algumas funções utilizando essas três ferramentas. Atualmente estou utilizando delas para integrar meus conhecimentos de Back End com o essencial do Front End, realizando criações com estilização visual e funcionalidades com bases sólidas de lógica.
+|Python| :star: :star: | Possuo noção básica do que esta liguagem pode oferecer. Tive muito contato com ela nos primeiros quadrimestres da faculdade, onde desenvolvi lógica de programação, POO e uso de diversas bibliotecas (como por exemplo Pandas, onde usei para interpretação de dados)
+|HTML/CSS/JS| :star: | Consigo criar páginas web simples com algumas funções utilizando essas três ferramentas. Atualmente estou utilizando delas para integrar meus conhecimentos de Back End com o essencial do Front End, realizando criações com estilização visual e funcionalidades com bases sólidas de lógica.
 |SQL| :star: | Sei realizar consultas, criação de tabelas, atualização de dados e inserir informações. Tenho como principal ferramente de uso do SQL o PostgreSQL, onde prefiro adotar o uso do PGadmin para lidar com as funções detalhadas anteriormente.
 
 | Ferramentas | Nível | Comentarios |
@@ -44,7 +44,7 @@ public class Rafael {
 |VS Code | :star: | Conhecimento iniciante (Ferramenta que comecei a utilizar recentemente)
 |Spring Boot| :star: | Conhecimento iniciante (Iniciei meu aprofundamento recentemente nessa ferramenta)
 |Angular| :star: | Conhecimento iniciante (Iniciei meu aprofundamento recentemente nessa ferramente)
-|PostgrSQL| :star: |Conhecimento inicante (Estou adquirindo familiaridade com a ferramenta)
+|PostgreSQL| :star: |Conhecimento inicante (Estou adquirindo familiaridade com a ferramenta)
 
 
   
