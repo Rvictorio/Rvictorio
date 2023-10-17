@@ -35,7 +35,7 @@ public class Rafael {
 |HTML/CSS/JS| :star: | I can create simple web applications with a few functions using these three tools. I'm currently using them to integrate my knowledge of the Back End with the essentials of the Front End, making creations with visual stylization and functionalities with solid bases of logic.
 |SQL| :star: | I know how to perform queries, create tables, update data and insert information. My main tool for using SQL is PostgreSQL, where I prefer to use PGadmin to handle the functions detailed above.
 
-| Ferramentas | Nível | Comentarios |
+| Tools | Level | Comments |
 |:----------|------| ------------------|
 |GIT/GITHUB|:star: :star: | Basic knowledge (I understand the tools and their applications)
 |Intellij IDEA| :star: :star: | Basic knowledge (My favorite IDE for coding in JAVA)
