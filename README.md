@@ -1,9 +1,10 @@
+<a href="https://github.com/Rvictorio/Rvictorio/blob/main/README-EN.md">🇺🇸 Don't speak Portuguese? Click here to view the english version.</a>
 
-😎Hello, my name is Rafael, I've always been very curious about technology and it's become my passion. I'm extremely passionate about exact sciences, I'm fascinated by how it can always change for the better, just as I can too. 
+😎Olá, meu nome é Rafael, sempre fui muito curioso em relação à tecnologia e ela se tornou minha paixão. Sou extremamente apaixonado por ciências exatas, sou fascinado por como ela pode sempre mudar para melhor, assim como eu também posso.  
 
-⚙️I'm interested in entering the field of development so that I can change my life and people's lives by creating applications and solutions that can impact the world in some way. I believe that contribution, empathy, respect and education can change the world.
+⚙️Estou interessado em entrar na área do desenvolvimento para poder mudar a minha vida e a vida das pessoas, criando aplicações e soluções que possam ter algum impacto no mundo. Acredito que a contribuição, a empatia, o respeito e a educação podem mudar o mundo.
 
-📚A future developer, I'm a student at UFABC, with several courses from Udemy, Alura and DIO (Java, Python, Spring, SQL, HTML, CSS, JavaScript).
+📚Aspirante a desenvolvedor, sou aluno da UFABC, com diversos cursos da Udemy, Alura e DIO (Java, Python, Spring, SQL, HTML, CSS, JavaScript).
 
 ```java
 public class Rafael {
