@@ -17,16 +17,11 @@ public class Rafael {
 
 </details>
 
-
-<details>
-  <summary><b>Contatos: </b></summary>
-
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Rvictorio)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rvictorio)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Rvictori0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rvictorio8@gmail.com)
 
-</details>
 <details>
   <summary><b>Tecnologias: </b></summary>
 
@@ -49,32 +44,4 @@ public class Rafael {
 
   
 </details>
-
-
-
-<details>
-  <summary><b>Stats: </b></summary>
-  
-  
-  ![stats](https://github-readme-stats.vercel.app/api?username=rvictorio&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
-  ![](https://komarev.com/ghpvc/?username=rvictorio&style=flat-square&label=Views)
-![]( https://badges.pufler.dev/visits/char-al/rvictorio?color=black&logo=github&style=flat-square )
-  
-</details>
-
-<details>
-  <summary><b>Mais sobre mim: </b></summary>
-  
- ## O que eu ando ouvindo 🎵:
-   ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12176639966)
-   
-## Canais do Youtube que eu vejo 📺:
-  - [Ciência todo dia](https://www.youtube.com/@CienciaTodoDia)
-  - [Fiasco](https://www.youtube.com/@GrandeFiasco)
-  - [Filipe Deschamps](https://www.youtube.com/@FilipeDeschamps)
-  - [Nerdologia](https://www.youtube.com/@nerdologia)
-  - [Bandeja](https://www.youtube.com/@BANDEJA)
-  - [Attekita Dev](https://www.youtube.com/@attekitadev)
-  
-  
 
