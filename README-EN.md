@@ -9,7 +9,7 @@ public class Rafael {
  String name = "Rafael Victorio Bezerra";
  String mainStack = "Java";
  
- System.out.print("My main tools: Spring, SQL, JavaScript, Python, GIT/Github.");
+ System.out.print("My main tools: Spring, SQL, JavaScript, Python and GIT.");
 }
 ```
 
@@ -47,31 +47,3 @@ public class Rafael {
 
   
 </details>
-
-
-
-<details>
-  <summary><b>Stats: </b></summary>
-  
-  
-  ![stats](https://github-readme-stats.vercel.app/api?username=rvictorio&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
-  ![](https://komarev.com/ghpvc/?username=rvictorio&style=flat-square&label=Views)
-![]( https://badges.pufler.dev/visits/char-al/rvictorio?color=black&logo=github&style=flat-square )
-  
-</details>
-
-<details>
-  <summary><b>More about me: </b></summary>
-  
- ## What I've been listening to 🎵:
-   ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12176639966)
-   
-## YouTube channels I watch 📺:
-  - [Ciência todo dia](https://www.youtube.com/@CienciaTodoDia)
-  - [Fiasco](https://www.youtube.com/@GrandeFiasco)
-  - [Filipe Deschamps](https://www.youtube.com/@FilipeDeschamps)
-  - [Nerdologia](https://www.youtube.com/@nerdologia)
-  - [Bandeja](https://www.youtube.com/@BANDEJA)
-  - [Attekita Dev](https://www.youtube.com/@attekitadev)
-  
-  
