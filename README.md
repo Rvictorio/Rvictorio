@@ -27,7 +27,7 @@ Eu não sei como você chegou aqui, mas tentarei mostrar um pouco sobre mim para
   
 ## Curiosidades sobre mim
 
-* Sou estágiario de desenvolvimento na TOTVS, atuo com FLUIG.
+* Sou estágiario de dados no Itaú
 * Tenho grande fascínio por ciências, principalmente Astrofísica, Sociologia e Filosofia.
 * Meu gosto pra tecnologia começou quando pequeno, nas Lan Houses. Acompanhar montagem de computadores e redes para rodar jogos, atiçou muito minha curiosidade.
 * Sou um pseudo cinéfilo, com muitas horas vendo filmes, documentários, curtas, animações e até mesmo critícas.
